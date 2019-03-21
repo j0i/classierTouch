@@ -1,7 +1,6 @@
-# ZSH Theme - classyTouch
-# Author1: Yaris Alex Gutierrez <yarisgutierrez@gmail.com>
-# Author2: j0i <z_series@protonmail.ch>
-# Prompt is the Oh-my-zsh version of user Graawr's 'Classy Touch' themes on http://dotshare.it
+# ZSH Theme - classierTouch
+# Author: j0i <z_series@protonmail.ch>
+# Prompt is the Oh-my-zsh version of user yarisgutierrez on https://github.com/yarisgutierrez/classyTouch_oh-my-zsh
 
 if [[ $UID -eq 0 ]]; then
     local user_host='%{$terminfo[bold]$fg[white]%}%n@%m%{$reset_color%}'
